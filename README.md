@@ -1,6 +1,6 @@
 # Course Slides & Datasets
 
-Welcome to the course materials repository! This repo contains downloadable slides and datasets for SQL sessions.
+Welcome to SQL course materials repository! This repo contains downloadable slides and datasets for SQL sessions.
 
 ---
 
@@ -28,7 +28,7 @@ This dataset includes three tables for learning SQL Queries, joins and aggregati
 
 ## 🗃️ Dataset 2: Used in Session 6 
 
-This dataset includes four tables and is used for analyzing supply chain of a fashion store.
+This dataset includes four tables and is used for analyzing the operations of a manufacturing company.
 
 | Table Name     | Description                            | File
 |----------------|----------------------------------------|-------------|
@@ -39,5 +39,10 @@ This dataset includes four tables and is used for analyzing supply chain of a fa
 
 ---
 
-Happy Learning!
+##  Final Notes
+
+Thank you for exploring this repository 😊. These materials are designed not only to support your learning but to encourage hands-on experimentation with real-world datasets.
+
+**Happy Learning!**
+
 
