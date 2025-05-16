@@ -26,18 +26,18 @@ This dataset includes three tables for learning SQL Queries, joins and aggregati
 
 ---
 
-## 🗃️ Dataset 2: Used in Session 6 (SQL)
+## 🗃️ Dataset 2: Used in Session 6 
 
-This more advanced dataset includes four tables and is used for analyzing transactions and customer behavior.
+This dataset includes four tables and is used for analyzing supply chain of a fashion store.
 
-| Table Name     | Description |
-|----------------|-------------|
-| `customers`    | Customer ID, name, email, and location |
-| `orders`       | Order ID, customer ID, order date, and total |
-| `products`     | Product ID, name, category, and price |
-| `order_items`  | Links products to orders with quantity and price per item |
+| Table Name     | Description                            | File
+|----------------|----------------------------------------|-------------|
+| `Employees`    | Employee ID, name and shift information| [Download](https://github.com/Daheltechies25/SQL/blob/main/employees_data.csv) |
+| `operations`   | Operations_ID, Product_ID, Production_Date, Production_Quantity, Quality_Metrics, Quantity_in_Stock, Quantity_Sold, Supplier_ID, Lead_Time, Employee_ID, Maintenance_Type, Downtime_Duration, Energy_Consumption_Data, Production_Time, Downtime_Events, Employee_Rating, Downtime_Reason  | [Download](https://github.com/Daheltechies25/SQL/blob/main/Operation_data.csv) |
+| `products`     | Product ID, name and category          |[Download](https://github.com/Daheltechies25/SQL/blob/main/Products_data.csv) |
+| `suppliers`    | Supplier ID and name                   |[Download](https://github.com/Daheltechies25/SQL/blob/main/supplier_data.csv) |
 
 ---
 
-## 📂 Folder Structure
+Happy Learning!
 
