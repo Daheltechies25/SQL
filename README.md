@@ -8,7 +8,7 @@ Welcome to the course materials repository! This repo contains downloadable slid
 
 | Session | Topic                | File |
 |--------:|----------------------|------|
-| 1       | Introduction to SQL  | [Download]([Intro SQL.pptx]](https://github.com/Daheltechies25/SQL/blob/main/Intro%20SQL.pptx)) |
+| 1       | Introduction to SQL  | [Download](https://github.com/Daheltechies25/SQL/blob/main/Intro%20SQL.pptx) |
 | 2       |   SQL Query & Keys   | [Download](slides/session2-joins.pdf) |
 | 3       | Aggregations & Joins | [Download](slides/session3-aggregations.pdf) |
 
