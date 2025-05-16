@@ -9,20 +9,20 @@ Welcome to the course materials repository! This repo contains downloadable slid
 | Session | Topic                | File |
 |--------:|----------------------|------|
 | 1       | Introduction to SQL  | [Download](https://github.com/Daheltechies25/SQL/blob/main/Intro%20SQL.pptx) |
-| 2       |   SQL Query & Keys   | [Download](slides/session2-joins.pdf) |
-| 3       | Aggregations & Joins | [Download](slides/session3-aggregations.pdf) |
+| 2       |   SQL Query & Keys   | [Download](https://github.com/Daheltechies25/SQL/blob/main/SQL%202.pptx) |
+| 3       | Aggregations & Joins | [Download](https://github.com/Daheltechies25/SQL/blob/main/SQL%203.pptx) |
 
 ---
 
-## 🗃️ Dataset 1: Used in Session 3 (SQL)
+## 🗃️ Dataset 1: Used in Session 3 & 4 
 
-This dataset includes three tables for learning joins and aggregations.
+This dataset includes three tables for learning SQL Queries, joins and aggregations.
 
-| Table Name     | Description |
-|----------------|-------------|
-| `students`     | Contains student ID, name, and enrollment date |
-| `courses`      | Lists course ID, title, and department |
-| `enrollments`  | Links students to courses with enrollment dates and grades |
+| Table Name     | Description                                                                                                                       | File |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------------|------|
+| `customers`    | Contains Customer ID, name, email, phone number and location                                                                      | [Download](https://github.com/Daheltechies25/SQL/blob/main/Customer.csv) |
+| `product`      | Lists Product ID, name, category, and price                                                                                       | [Download](https://github.com/Daheltechies25/SQL/blob/main/Product2.csv) |
+| `orders`       |Lists Order ID, product ID, customer ID, Personnel ID, Sales Channel, Payment Mode, Store ID, Quantity, sales date and sales amount| [Download](https://github.com/Daheltechies25/SQL/blob/main/Orders.csv)   |
 
 ---
 
