@@ -4,9 +4,9 @@ Welcome to SQL course materials repository! This repo contains downloadable slid
 
 ---
 
-## 📑 Slide Downloads
+## 📑 Slide Downlods
 
-| Session | Topic                | File |
+| Session | Topic                | File |   
 |--------:|----------------------|------|
 | 1       | Introduction to SQL  | [Download](https://github.com/Daheltechies25/SQL/blob/main/Intro%20SQL.pptx) |
 | 2       |   SQL Query & Keys   | [Download](https://github.com/Daheltechies25/SQL/blob/main/SQL%202.pptx) |
