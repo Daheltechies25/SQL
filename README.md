@@ -28,8 +28,8 @@ This dataset includes three tables for learning SQL Queries, joins and aggregati
 ### Dataset 1 Questions
 This questions is a guide on how to explore the dataset
 
--- Simple questions 
--- How many customers are in the database?
+- Simple questions 
+- How many customers are in the database?
 -- Get a list of all customer names?
 -- How many products are there in each category? 
 -- What is the total sales amount? The average, max, min sales amount
