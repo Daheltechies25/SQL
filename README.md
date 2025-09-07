@@ -68,7 +68,7 @@ This questions is a guide on how to explore the dataset
 - Which customers have not placed any orders in the last month?
 
 
-## 🗃️ Dataset 2: Used in Session 6 
+## 🗃️ Dataset 2: Used for practice 
 
 This dataset includes four tables and is used for analyzing the operations of a manufacturing company.
 
